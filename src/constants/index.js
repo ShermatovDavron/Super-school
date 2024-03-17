@@ -1,0 +1,1 @@
+export const logo = 'https://www.freepik.com/premium-psd/paper-clip-stationery-icon-minimalist-3d-render_30939715.htm'
